@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/RecroApp/static/css/main.e9449697.chunk.css",
+    "main.js": "/RecroApp/static/js/main.c0531c56.chunk.js",
+    "main.js.map": "/RecroApp/static/js/main.c0531c56.chunk.js.map",
+    "runtime-main.js": "/RecroApp/static/js/runtime-main.c99e1633.js",
+    "runtime-main.js.map": "/RecroApp/static/js/runtime-main.c99e1633.js.map",
+    "static/js/2.213dfaed.chunk.js": "/RecroApp/static/js/2.213dfaed.chunk.js",
+    "static/js/2.213dfaed.chunk.js.map": "/RecroApp/static/js/2.213dfaed.chunk.js.map",
+    "index.html": "/RecroApp/index.html",
+    "static/css/main.e9449697.chunk.css.map": "/RecroApp/static/css/main.e9449697.chunk.css.map",
+    "static/js/2.213dfaed.chunk.js.LICENSE.txt": "/RecroApp/static/js/2.213dfaed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c99e1633.js",
+    "static/js/2.213dfaed.chunk.js",
+    "static/css/main.e9449697.chunk.css",
+    "static/js/main.c0531c56.chunk.js"
+  ]
+}
